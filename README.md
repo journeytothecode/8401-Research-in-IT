@@ -1,4 +1,4 @@
-OURSE AIMS/OBJECTIVES
+COURSE AIMS/OBJECTIVES
 
 To provide students with a framework for applied research in information technology through  examining research methods and publications, with particular reference to research into the impact  of information technology on society.  
 
