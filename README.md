@@ -1,26 +1,37 @@
-# 8401-Research-in-IT-ASSIGNMENT-1
-ASSIGNMENT 1 – LITERATURE REVIEW REPORT
+OURSE AIMS/OBJECTIVES
 
-Assignment
+To provide students with a framework for applied research in information technology through  examining research methods and publications, with particular reference to research into the impact  of information technology on society.  
 
-Write a Literature Review Report, on any area of research in IT. The report must adhere to APA style manual standards, and must be cited and referenced to those standards. 
-                          http://www.whitireia.ac.nz/resources/Pages/APAReferencing.aspx
+Content   
 
-Aim
+Research methods (qualitative, quantitative, and mixed)
 
-To help students develop skills in academic writing and in critiquing and analysis.
+research literature, impact of information  technology on society (including ethical issues, environmental and social challenges).  
+ LEARNING OUTCOMES    
+ 
+1.  Critically evaluate the suitability of a range of research methods (qualitative,  quantitative, and mixed) for application in a specific area of information technology. 
 
-Learning Outcomes
+2.  Select, analyse, critique and synthesise research literature in a specific area of  information technology.
 
-1.	Critically evaluate the suitability of a range of research methods (qualitative, quantitative, and mixed) for application in a specific area of information technology.
-2.	Select, analyse, critique and synthesise research literature in a specific area of information technology.
+3.  Assess the (past, present and future) impacts of specific aspects of information  technology.  
 
-What is Required?
+4.  Critically analyse ethical issues in the use of information technology.     
 
-You must include an Abstract, Content, Literature Map, Concept Matrix, Conclusion, Glossary and References in your report.
 
-The length of the report is 3500 - 4000 words.
+As a LEVEL 8 paper, students are expected to acquire:   
 
-Date Due
+  
+Knowledge:  
 
-The final report is due on midnight Sunday, 25th June 2017. It must be submitted on the Moodle site into the Turnitin submission.  You will be able to resubmit so look at the feedback from Turnitin, make any adjustments necessary and resubmit.
+  Advanced  technical  and/or  theoretical  knowledge  in  a  discipline  or  practice,  involving  a  critical understanding of the underpinning key principles  
+
+Skills:  
+
+  Analyse, generate solutions to complex and sometimes unpredictable problems  
+
+  Evaluate and apply a range of processes relevant to the field of work or study   
+
+Application:   
+ 
+  Developing  identification  with  a  profession  and/or  discipline  through  application  of 
+advanced generic skills and/or specialist knowledge and skills. 
